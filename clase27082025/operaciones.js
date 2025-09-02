@@ -1,0 +1,13 @@
+let num1 = parseInt(prompt("Ingresa el numero 1: "));
+let num2 = parseInt(prompt("Ingresa el numero 2: "));
+console.log("Tus numeros fueron " + num1 + " y " + num2);
+let res = num1 + num2;
+console.log("La suma de los numeros es = " + res);
+res = num1 - num2;
+console.log("La resta de los numeros es = " + res);
+res = num1 * num2;
+console.log("La multiplicacion de los numeros es = " + res);
+res = num1 / num2;
+console.log("La division de los numeros es = " + res);
+res = num1 % num2;
+console.log("El modulo de los numeros es = " + res);
