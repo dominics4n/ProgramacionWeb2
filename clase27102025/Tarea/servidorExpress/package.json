@@ -1,0 +1,18 @@
+{
+  "name": "servidorexpress",
+  "version": "1.0.0",
+  "description": "Servidor utilizando Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Servidor"
+  ],
+  "author": "dominics4n",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
